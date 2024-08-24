@@ -1,1 +1,1 @@
-immich-server:latest
+metatube/metatube-server:latest
