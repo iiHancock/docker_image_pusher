@@ -1,1 +1,1 @@
-metatube/metatube-server:latest
+mt-photos:latest
