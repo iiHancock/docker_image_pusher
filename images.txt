@@ -1,11 +1,14 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-emby
-jellyfin
-postgres
-immich
-redis
+# 其他images
+embyserver:latest
+nyanmisaka/jellyfin:latest
+linuxserver/jellyfin:latest
+pgvecto-rs:pg16-v0.2.0
+immich-server:latest
+redis:latest
+metatube/metatube-server:latest
+mt-photos:latest
