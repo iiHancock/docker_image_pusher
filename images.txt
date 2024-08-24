@@ -1,1 +1,2 @@
-linuxserver/jellyfin:latest
+pgvecto-rs:pg16-v0.2.0
+pgvecto-rs:pg16-v0.3.0
