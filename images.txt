@@ -1,1 +1,5 @@
-mtphotos/mt-photos
+immich-app/immich-server
+immich-app/immich-machine-learning
+tensorchord/pgvecto-rs:pg16-v0.2.0
+tensorchord/pgvecto-rs:pg16-v0.3.0
+docker.io/redis
