@@ -1,1 +1,1 @@
-immich-app/immich-server:releases
+ghcr.io/immich-app/immich-server
