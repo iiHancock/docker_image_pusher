@@ -1,4 +1,16 @@
+nginx
+nyanmisaka/jellyfin:latest
+linuxserver/jellyfin:latest
+metatube/metatube-server:latest
+emby/embyserver
+mtphotos/mt-photos
+ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 docker.io/tensorchord/pgvecto-rs:pg16-v0.2.0
 docker.io/tensorchord/pgvecto-rs:pg16-v0.3.0
 docker.io/redis
+
+#支持私库
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
