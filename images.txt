@@ -1,1 +1,1 @@
-portainer:latest
+nyanmisaka/jellyfin:latest
