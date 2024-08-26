@@ -13,6 +13,7 @@ mccloud/subgen
 docker.io/xhofe/alist
 ghcr.io/monlor/xiaoya-alist
 ghcr.io/monlor/xiaoya-metadata
+docker.io/deluan/navidrome
 
 #支持私库
 xhofe/alist:latest
