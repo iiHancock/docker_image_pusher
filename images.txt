@@ -1,3 +1,4 @@
+joplin/server
 nginx
 nyanmisaka/jellyfin:latest
 linuxserver/jellyfin:latest
