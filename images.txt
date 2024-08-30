@@ -1,3 +1,5 @@
+docker.io/linuxserver/jellyfin:10.9.8
+docker.io/linuxserver/jellyfin:10.9.10
 docker.io/hslr/sun-panel
 docker.io/postgres
 joplin/server
