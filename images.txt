@@ -1,3 +1,4 @@
+metatube/metatube-server:dev
 docker.io/jeessy/ddns-go
 docker.io/linuxserver/jellyfin:10.9.8
 docker.io/linuxserver/jellyfin:10.9.10
