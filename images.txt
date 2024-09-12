@@ -1,12 +1,13 @@
+jellyfin/jellyfin:10.8.13
+jellyfin/jellyfin:latest
 ghcr.io/metatube-community/metatube-server:dev
 docker.io/jeessy/ddns-go
-docker.io/linuxserver/jellyfin:10.9.8
-docker.io/linuxserver/jellyfin:10.9.10
 docker.io/hslr/sun-panel
 docker.io/postgres
 joplin/server
 nginx
 nyanmisaka/jellyfin:latest
+linuxserver/jellyfin:10.8.13
 linuxserver/jellyfin:latest
 metatube/metatube-server:latest
 emby/embyserver
