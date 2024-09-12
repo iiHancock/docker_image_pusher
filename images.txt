@@ -1,5 +1,5 @@
-jellyfin/jellyfin:10.8.13
-jellyfin/jellyfin:latest
+ghcr.io/jellyfin/jellyfin:10.8.13
+ghcr.io/jellyfin/jellyfin:latest
 ghcr.io/metatube-community/metatube-server:dev
 docker.io/jeessy/ddns-go
 docker.io/hslr/sun-panel
