@@ -1,2 +1,2 @@
-alturismo/xteve
-alturismo/xteve_guide2go
+romancin/tinymediamanager:latest
+dzhuang/tinymediamanager:latest
